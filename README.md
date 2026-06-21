@@ -1,4 +1,5 @@
 # Retail Sales Power BI Dashboard
+![Dashboard Screenshot](Capture.PNG)
 
 A Power BI project analyzing retail sales data across regions, products, and sales representatives using a 5-table relational data model.
 
